@@ -12,3 +12,5 @@
  修复gbpzkimmi不小心按下的ctrl+z整出的bug
  v2.3：
  增加版本更新数据，增加歌曲【Breathe】，更新所有歌曲至无损音质转换而来的ogg文件
+ v2.4：
+ 新增歌曲：Pacific Rim (feat. Tom Morello)
